@@ -3,8 +3,9 @@
 
 int main (){
 	int f[5]={1,2,3,4,5,6};
-	
+	int g;
 	printf(f[-1]);
+	
 	
 	
 	
