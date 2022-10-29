@@ -30,8 +30,8 @@ namespace lokanta._1
 
         private void guna2GradientTileButton1_Click(object sender, EventArgs e)
         {
-            MENUTEST menu = new MENUTEST();
-            menu.Show();
+            menu men = new menu();
+            men.Show();
             this.Hide();
         }
 

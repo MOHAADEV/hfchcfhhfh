@@ -33,9 +33,9 @@ namespace lokanta._1
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FOOD));
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -56,6 +56,7 @@ namespace lokanta._1
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.guna2Panel2.SuspendLayout();
@@ -79,20 +80,20 @@ namespace lokanta._1
             this.guna2Panel1.Controls.Add(this.label2);
             this.guna2Panel1.Controls.Add(this.label1);
             this.guna2Panel1.Controls.Add(this.pictureBox1);
-            this.guna2Panel1.Location = new System.Drawing.Point(73, 50);
+            this.guna2Panel1.Location = new System.Drawing.Point(83, 50);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(194, 252);
+            this.guna2Panel1.Size = new System.Drawing.Size(222, 252);
             this.guna2Panel1.TabIndex = 0;
             // 
-            // pictureBox1
+            // label2
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(4, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(191, 177);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(113, 216);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(92, 34);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "20 TL";
             // 
             // label1
             // 
@@ -104,31 +105,31 @@ namespace lokanta._1
             this.label1.TabIndex = 1;
             this.label1.Text = "ICE COFFE";
             // 
-            // label2
+            // pictureBox1
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(99, 216);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(92, 34);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "20 TL";
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(5, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(218, 177);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // guna2Panel2
             // 
             this.guna2Panel2.Controls.Add(this.label3);
             this.guna2Panel2.Controls.Add(this.label4);
             this.guna2Panel2.Controls.Add(this.pictureBox2);
-            this.guna2Panel2.Location = new System.Drawing.Point(283, 53);
+            this.guna2Panel2.Location = new System.Drawing.Point(323, 53);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(194, 252);
+            this.guna2Panel2.Size = new System.Drawing.Size(222, 252);
             this.guna2Panel2.TabIndex = 0;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(99, 216);
+            this.label3.Location = new System.Drawing.Point(113, 216);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(92, 34);
             this.label3.TabIndex = 1;
@@ -147,9 +148,9 @@ namespace lokanta._1
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(4, 3);
+            this.pictureBox2.Location = new System.Drawing.Point(5, 3);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(191, 177);
+            this.pictureBox2.Size = new System.Drawing.Size(218, 177);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
@@ -159,16 +160,16 @@ namespace lokanta._1
             this.guna2Panel3.Controls.Add(this.label5);
             this.guna2Panel3.Controls.Add(this.label6);
             this.guna2Panel3.Controls.Add(this.pictureBox3);
-            this.guna2Panel3.Location = new System.Drawing.Point(499, 53);
+            this.guna2Panel3.Location = new System.Drawing.Point(570, 53);
             this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(194, 252);
+            this.guna2Panel3.Size = new System.Drawing.Size(222, 252);
             this.guna2Panel3.TabIndex = 0;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(99, 216);
+            this.label5.Location = new System.Drawing.Point(113, 216);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(92, 34);
             this.label5.TabIndex = 1;
@@ -187,9 +188,9 @@ namespace lokanta._1
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(4, 3);
+            this.pictureBox3.Location = new System.Drawing.Point(5, 3);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(191, 177);
+            this.pictureBox3.Size = new System.Drawing.Size(218, 177);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
@@ -199,16 +200,16 @@ namespace lokanta._1
             this.guna2Panel4.Controls.Add(this.label7);
             this.guna2Panel4.Controls.Add(this.label8);
             this.guna2Panel4.Controls.Add(this.pictureBox4);
-            this.guna2Panel4.Location = new System.Drawing.Point(499, 311);
+            this.guna2Panel4.Location = new System.Drawing.Point(570, 311);
             this.guna2Panel4.Name = "guna2Panel4";
-            this.guna2Panel4.Size = new System.Drawing.Size(194, 252);
+            this.guna2Panel4.Size = new System.Drawing.Size(222, 252);
             this.guna2Panel4.TabIndex = 0;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(99, 216);
+            this.label7.Location = new System.Drawing.Point(113, 216);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(92, 34);
             this.label7.TabIndex = 1;
@@ -227,9 +228,9 @@ namespace lokanta._1
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(4, 3);
+            this.pictureBox4.Location = new System.Drawing.Point(5, 3);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(191, 177);
+            this.pictureBox4.Size = new System.Drawing.Size(218, 177);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 0;
             this.pictureBox4.TabStop = false;
@@ -239,16 +240,16 @@ namespace lokanta._1
             this.guna2Panel5.Controls.Add(this.label9);
             this.guna2Panel5.Controls.Add(this.label10);
             this.guna2Panel5.Controls.Add(this.pictureBox5);
-            this.guna2Panel5.Location = new System.Drawing.Point(283, 311);
+            this.guna2Panel5.Location = new System.Drawing.Point(323, 311);
             this.guna2Panel5.Name = "guna2Panel5";
-            this.guna2Panel5.Size = new System.Drawing.Size(194, 252);
+            this.guna2Panel5.Size = new System.Drawing.Size(222, 252);
             this.guna2Panel5.TabIndex = 0;
             // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(99, 216);
+            this.label9.Location = new System.Drawing.Point(113, 216);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(92, 34);
             this.label9.TabIndex = 1;
@@ -267,9 +268,9 @@ namespace lokanta._1
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(4, 3);
+            this.pictureBox5.Location = new System.Drawing.Point(5, 3);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(191, 177);
+            this.pictureBox5.Size = new System.Drawing.Size(218, 177);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
@@ -279,16 +280,16 @@ namespace lokanta._1
             this.guna2Panel6.Controls.Add(this.label11);
             this.guna2Panel6.Controls.Add(this.label12);
             this.guna2Panel6.Controls.Add(this.pictureBox6);
-            this.guna2Panel6.Location = new System.Drawing.Point(73, 308);
+            this.guna2Panel6.Location = new System.Drawing.Point(83, 308);
             this.guna2Panel6.Name = "guna2Panel6";
-            this.guna2Panel6.Size = new System.Drawing.Size(194, 252);
+            this.guna2Panel6.Size = new System.Drawing.Size(222, 252);
             this.guna2Panel6.TabIndex = 0;
             // 
             // label11
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(99, 216);
+            this.label11.Location = new System.Drawing.Point(113, 216);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(92, 34);
             this.label11.TabIndex = 1;
@@ -307,18 +308,29 @@ namespace lokanta._1
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(4, 3);
+            this.pictureBox6.Location = new System.Drawing.Point(5, 3);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(191, 177);
+            this.pictureBox6.Size = new System.Drawing.Size(218, 177);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 0;
             this.pictureBox6.TabStop = false;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(47, 13);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // FOOD
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(743, 571);
+            this.ClientSize = new System.Drawing.Size(849, 571);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.guna2Panel6);
             this.Controls.Add(this.guna2Panel5);
             this.Controls.Add(this.guna2Panel4);
@@ -377,5 +389,6 @@ namespace lokanta._1
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button1;
     }
 }
