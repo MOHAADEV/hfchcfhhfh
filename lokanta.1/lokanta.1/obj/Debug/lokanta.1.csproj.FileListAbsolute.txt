@@ -1,0 +1,14 @@
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\bin\Debug\lokanta.1.exe.config
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\bin\Debug\lokanta.1.exe
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\bin\Debug\lokanta.1.pdb
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\bin\Debug\Guna.UI2.dll
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.AssemblyReference.cache
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta._1.Properties.Resources.resources
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.GenerateResource.cache
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.CoreCompileInputs.cache
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.CopyComplete
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta.1.exe
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta.1.pdb
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta._1.Form1.resources
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta._1.FOOD.resources
+C:\Users\MohaR\source\repos\lokanta.1\lokanta.1\obj\Debug\lokanta._1.MENUTEST.resources
