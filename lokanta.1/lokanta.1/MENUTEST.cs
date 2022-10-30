@@ -37,5 +37,10 @@ namespace lokanta._1
         {
             Application.Exit();
         }
+
+        private void guna2GradientButton4_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
