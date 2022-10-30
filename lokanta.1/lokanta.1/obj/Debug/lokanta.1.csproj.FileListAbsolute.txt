@@ -58,3 +58,22 @@ C:\Users\SAKO\Desktop\DENE\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.cs
 C:\Users\SAKO\Desktop\DENE\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.CopyComplete
 C:\Users\SAKO\Desktop\DENE\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.exe
 C:\Users\SAKO\Desktop\DENE\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.pdb
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\bin\Debug\lokanta.1.exe.config
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\bin\Debug\lokanta.1.exe
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\bin\Debug\lokanta.1.pdb
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\bin\Debug\Guna.UI2.dll
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.AssemblyReference.cache
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.FOOD.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.Form1.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.menu.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.MENUTEST.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.Properties.Resources.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.sweetsform.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.GenerateResource.cache
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.CoreCompileInputs.cache
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.csproj.CopyComplete
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.exe
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta.1.pdb
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.drinksform.resources
+C:\Users\omer abdullah\Desktop\deneme\hfchcfhhfh\lokanta.1\lokanta.1\obj\Debug\lokanta._1.Forodform.resources
