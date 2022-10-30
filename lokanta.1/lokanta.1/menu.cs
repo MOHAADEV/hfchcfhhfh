@@ -60,13 +60,13 @@ namespace lokanta._1
             else
 
             if (pictureBoxslide2.Visible == true)
-            {
+            {  
                 pictureBoxslide2.Visible = false;
                 pictureBoxslide3.Visible = true;
             }
             else
 
-            if (pictureBoxslide3.Visible == true)
+            if (pictureBoxslide3.Visible == true) 
             {
                 pictureBoxslide3.Visible = false;
                 pictureBoxslide1.Visible = true;
